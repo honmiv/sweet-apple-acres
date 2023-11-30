@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="AppleAcres.TextPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AppleAcres"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/tryagain.png"/>
+            
+        </Grid.Background>
+        <Grid HorizontalAlignment="Center" Margin="0" VerticalAlignment="Center">
+            <TextBlock x:Name="table" FontFamily="/Assets/Equestria.ttf#Equestria" TextWrapping="Wrap" VerticalAlignment="Top" TextAlignment="Center" FontSize="48" Foreground="White" Canvas.ZIndex="2" IsHitTestVisible="False">
+        		<Run Text="Contact:                      honmiv@gmail.com                      @honmiv                      vk.com/honmiv                      "/>
+        		<LineBreak/>
+        		<Run Text="                                            Ilya maximov"/>
+            </TextBlock>
+
+
+        </Grid>
+    </Grid>
+</Page>
+

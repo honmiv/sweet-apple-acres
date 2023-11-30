@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:build="http://schemas.microsoft.com/developer/appx/2012/build" IgnorableNamespaces="build">
+  <!--
+    ЭТОТ ФАЙЛ МАНИФЕСТА ПАКЕТА СОЗДАН ПРОЦЕССОМ СБОРКИ.
+
+    Изменения этого файла будут потеряны при его повторном создании. Чтобы исправить ошибки в этом файле, измените исходный файл .appxmanifest.
+
+ Дополнительные сведения о файлах манифестов приложений см. по адресу http://go.microsoft.com/fwlink/?LinkID=241727
+  -->
+  <Identity Name="2135honMNB.SweetAppleAcres" Publisher="CN=FF5254F4-F3B7-418A-8AB5-AD587CBF8409" Version="1.1.0.0" ProcessorArchitecture="neutral" />
+  <mp:PhoneIdentity PhoneProductId="86120fbe-32f8-4b1b-af34-3956086d47fa" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>Sweet Apple Acres</DisplayName>
+    <PublisherDisplayName>honMNB</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.1</OSMinVersion>
+    <OSMaxVersionTested>6.3.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="EN-US" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="AppleAcres.exe" EntryPoint="AppleAcres.App">
+      <m3:VisualElements DisplayName="Sweet Apple Acres" Square150x150Logo="Assets\Logo.png" Square44x44Logo="Assets\SmallLogo.png" Description="Help ApplJack to manage with all these apples." ForegroundText="light" BackgroundColor="transparent" ToastCapable="false">
+        <m3:DefaultTile Square71x71Logo="Assets\Square71x71Logo.png">
+          <m3:ShowNameOnTiles>
+            <m3:ShowOn Tile="square150x150Logo" />
+          </m3:ShowNameOnTiles>
+        </m3:DefaultTile>
+        <m3:SplashScreen Image="Assets\loading.png" />
+        <m3:InitialRotationPreference>
+          <m3:Rotation Preference="portrait" />
+        </m3:InitialRotationPreference>
+      </m3:VisualElements>
+    </Application>
+  </Applications>
+  <build:Metadata>
+    <build:Item Name="TargetFrameworkMoniker" Value="WindowsPhoneApp,Version=v8.1" />
+    <build:Item Name="VisualStudio" Version="14.0" />
+    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Community 2015" />
+    <build:Item Name="OperatingSystem" Version="10.0.10586.0 (th2_release.151029-1700)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="14.0.24720.0" />
+    <build:Item Name="ProjectGUID" Value="{386FAC42-CE8A-4FF8-A85C-F4E1022618B7}" />
+    <build:Item Name="Microsoft.Windows.UI.Xaml.81.Build.Tasks.dll" Version="14.0.22705.1" />
+    <build:Item Name="MakePri.exe" Version="6.3.9600.17336 (winblue.150226-1500)" />
+  </build:Metadata>
+</Package>

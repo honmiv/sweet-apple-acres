@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="AppleAcres.MainMenu"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AppleAcres"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="menubck">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/menu.png"/>
+        </Grid.Background>
+        <TextBlock x:ConnectionId='1' x:Name="start" FontFamily="/Assets/Equestria.ttf#Equestria" Margin="0,338,0,0" TextWrapping="Wrap" Text="Start" FontSize="64" VerticalAlignment="Top" TextAlignment="Center"                      />
+        <TextBlock x:ConnectionId='2' x:Name="sound" FontFamily="/Assets/Equestria.ttf#Equestria" Margin="0,412,0,0" TextWrapping="Wrap" Text="SOund On" FontSize="64" VerticalAlignment="Top" TextAlignment="Center"                      />
+        <TextBlock x:ConnectionId='3' x:Name="info" FontFamily="/Assets/Equestria.ttf#Equestria" Margin="0" TextWrapping="Wrap" Text="?" FontSize="64" VerticalAlignment="Bottom" TextAlignment="Center"                      HorizontalAlignment="Right" Width="80" Foreground="#FFAFC938"/>
+    </Grid>
+</Page>
+

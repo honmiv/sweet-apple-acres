@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-I614GO5HQ0R</Machine>
+    <WindowsUser>maxfamily</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>86120fbe-32f8-4b1b-af34-3956086d47fa</PackageIdentityName>
+    <IntermediateOutputPath>B:\prog\AJ\AppleAcres\AppleAcres\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="B:\prog\AJ\AppleAcres\AppleAcres\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\bin\Release\AppleAcres.exe">
+      <PackagePath>AppleAcres.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\packages\Facebook.7.0.6\lib\portable-win81+wpa81\Facebook.dll">
+      <PackagePath>Facebook.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\applebreak.wav">
+      <PackagePath>Assets\applebreak.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\hitthetree.wav">
+      <PackagePath>Assets\hitthetree.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\barrel.png">
+      <PackagePath>Assets\barrel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\barrelback.png">
+      <PackagePath>Assets\barrelback.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\cider.png">
+      <PackagePath>Assets\cider.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\en.png">
+      <PackagePath>Assets\en.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\ajkickingleft.png">
+      <PackagePath>Assets\ajkickingleft.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\ajkickingright.png">
+      <PackagePath>Assets\ajkickingright.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\ajstayleft.png">
+      <PackagePath>Assets\ajstayleft.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\ajstayright.png">
+      <PackagePath>Assets\ajstayright.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\apple.png">
+      <PackagePath>Assets\apple.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\basket.png">
+      <PackagePath>Assets\basket.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\bck.png">
+      <PackagePath>Assets\bck.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\failedapple.png">
+      <PackagePath>Assets\failedapple.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\loading.png">
+      <PackagePath>Assets\loading.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\menu.png">
+      <PackagePath>Assets\menu.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\RateWINDOWSPHONESTORE.png">
+      <PackagePath>Assets\RateWINDOWSPHONESTORE.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\ru.png">
+      <PackagePath>Assets\ru.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\ShareFACEBOOK.png">
+      <PackagePath>Assets\ShareFACEBOOK.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\ShareTWITTER.png">
+      <PackagePath>Assets\ShareTWITTER.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\ShareVK.png">
+      <PackagePath>Assets\ShareVK.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\tree.png">
+      <PackagePath>Assets\tree.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\treeWithoutBranches.png">
+      <PackagePath>Assets\treeWithoutBranches.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\tryagain.png">
+      <PackagePath>Assets\tryagain.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\Equestria.ttf">
+      <PackagePath>Assets\Equestria.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\Assets\tryagainauido.mp3">
+      <PackagePath>Assets\tryagainauido.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\bin\Release\AppleAcres.xr.xml">
+      <PackagePath>AppleAcres.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\bin\Release\GamePage.xbf">
+      <PackagePath>GamePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\bin\Release\MainMenu.xbf">
+      <PackagePath>MainMenu.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\bin\Release\TextPage.xbf">
+      <PackagePath>TextPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\bin\Release\TryAgainPage.xbf">
+      <PackagePath>TryAgainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\prog\AJ\AppleAcres\AppleAcres\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

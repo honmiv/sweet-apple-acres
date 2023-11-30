@@ -1,0 +1,184 @@
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\bin\Debug\App.xbf
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\bin\Debug\MainPage.xbf
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\bin\Debug\AppleAcres.xr.xml
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\bin\Debug\AppleAcres.exe
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\bin\Debug\AppleAcres.pdb
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\bin\Debug\resources.pri
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\bin\Debug\AppxManifest.xml
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\bin\Debug\AppleAcres.build.appxrecipe
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\App.g.i.cs
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\App.g.cs
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\MainPage.g.i.cs
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\MainPage.g.cs
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\XamlTypeInfo.g.cs
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\App.xaml
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\App.xbf
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\XamlSaveStateFile.xml
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\MainPage.xaml
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\MainPage.xbf
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\AppleAcres.exe
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\AppleAcres.pdb
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\priconfig.xml
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\priconfig.xml.intermediate
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\layout.resfiles
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\layout.resfiles.intermediate
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\resources.resfiles
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\resources.resfiles.intermediate
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\pri.resfiles
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\pri.resfiles.intermediate
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\qualifiers.txt
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\qualifiers.txt.intermediate
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\илья\documents\visual studio 2013\Projects\AppleAcres\AppleAcres\obj\Debug\ProjectArchitectures.txt
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\bin\Debug\App.xbf
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\bin\Debug\MainPage.xbf
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\bin\Debug\AppleAcres.xr.xml
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\bin\Debug\AppleAcres.exe
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\bin\Debug\AppleAcres.pdb
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\bin\Debug\resources.pri
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\bin\Debug\AppxManifest.xml
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\bin\Debug\AppleAcres.build.appxrecipe
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\App.g.i.cs
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\App.g.cs
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\MainPage.g.i.cs
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\MainPage.g.cs
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\App.xaml
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\App.xbf
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\MainPage.xaml
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\MainPage.xbf
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\AppleAcres.exe
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\AppleAcres.pdb
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\priconfig.xml
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\priconfig.xml.intermediate
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\layout.resfiles
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\layout.resfiles.intermediate
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\resources.resfiles
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\resources.resfiles.intermediate
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\pri.resfiles
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\pri.resfiles.intermediate
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\qualifiers.txt
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Илья\Desktop\AppleAcres\AppleAcres\obj\Debug\ProjectArchitectures.txt
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\bin\Debug\App.xbf
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\bin\Debug\MainPage.xbf
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\bin\Debug\AppleAcres.xr.xml
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\bin\Debug\AppleAcres.exe
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\bin\Debug\AppleAcres.pdb
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\bin\Debug\resources.pri
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\bin\Debug\AppxManifest.xml
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\bin\Debug\AppleAcres.build.appxrecipe
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\App.g.i.cs
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\App.g.cs
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\MainPage.g.i.cs
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\MainPage.g.cs
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\App.xaml
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\App.xbf
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\MainPage.xaml
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\MainPage.xbf
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\AppleAcres.exe
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\AppleAcres.pdb
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\priconfig.xml
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\priconfig.xml.intermediate
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\layout.resfiles
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\layout.resfiles.intermediate
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\resources.resfiles
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\resources.resfiles.intermediate
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\pri.resfiles
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\pri.resfiles.intermediate
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\qualifiers.txt
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Илья\Desktop\123\AppleAcres\AppleAcres\obj\Debug\ProjectArchitectures.txt
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\bin\Debug\App.xbf
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\bin\Debug\AppleAcres.xr.xml
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\bin\Debug\AppleAcres.exe
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\bin\Debug\AppleAcres.pdb
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\bin\Debug\resources.pri
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\bin\Debug\AppxManifest.xml
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\bin\Debug\AppleAcres.build.appxrecipe
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\App.g.i.cs
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\App.g.cs
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\App.xaml
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\App.xbf
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\AppleAcres.exe
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\AppleAcres.pdb
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\priconfig.xml
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\priconfig.xml.intermediate
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\layout.resfiles
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\layout.resfiles.intermediate
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\resources.resfiles
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\resources.resfiles.intermediate
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\pri.resfiles
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\pri.resfiles.intermediate
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\qualifiers.txt
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\ProjectArchitectures.txt
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\bin\Debug\TryAgainPage.xbf
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\TryAgainPage.g.i.cs
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\TryAgainPage.g.cs
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\TryAgainPage.xaml
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\TryAgainPage.xbf
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\bin\Debug\GamePage.xbf
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\GamePage.g.i.cs
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\GamePage.g.cs
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\GamePage.xaml
+C:\Users\Илья\Desktop\AJ\AppleAcres\AppleAcres\obj\Debug\GamePage.xbf
+B:\prog\AJ\AppleAcres\AppleAcres\bin\Debug\App.xbf
+B:\prog\AJ\AppleAcres\AppleAcres\bin\Debug\GamePage.xbf
+B:\prog\AJ\AppleAcres\AppleAcres\bin\Debug\TryAgainPage.xbf
+B:\prog\AJ\AppleAcres\AppleAcres\bin\Debug\AppleAcres.xr.xml
+B:\prog\AJ\AppleAcres\AppleAcres\bin\Debug\AppleAcres.exe
+B:\prog\AJ\AppleAcres\AppleAcres\bin\Debug\AppleAcres.pdb
+B:\prog\AJ\AppleAcres\AppleAcres\bin\Debug\resources.pri
+B:\prog\AJ\AppleAcres\AppleAcres\bin\Debug\AppxManifest.xml
+B:\prog\AJ\AppleAcres\AppleAcres\bin\Debug\AppleAcres.build.appxrecipe
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\App.g.i.cs
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\App.g.cs
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\GamePage.g.i.cs
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\GamePage.g.cs
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\TryAgainPage.g.i.cs
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\TryAgainPage.g.cs
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\XamlTypeInfo.g.cs
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\App.xaml
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\GamePage.xaml
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\TryAgainPage.xaml
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\App.xbf
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\GamePage.xbf
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\TryAgainPage.xbf
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\XamlSaveStateFile.xml
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\AppleAcres.exe
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\AppleAcres.pdb
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\priconfig.xml
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\priconfig.xml.intermediate
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\layout.resfiles
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\layout.resfiles.intermediate
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\resources.resfiles
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\resources.resfiles.intermediate
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\pri.resfiles
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\pri.resfiles.intermediate
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\qualifiers.txt
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\qualifiers.txt.intermediate
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\ProjectArchitectures.txt
+B:\prog\AJ\AppleAcres\AppleAcres\bin\Debug\MainMenu.xbf
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\MainMenu.g.i.cs
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\MainMenu.g.cs
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\MainMenu.xaml
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\MainMenu.xbf
+B:\prog\AJ\AppleAcres\AppleAcres\bin\Debug\Facebook.dll
+B:\prog\AJ\AppleAcres\AppleAcres\bin\Debug\Facebook.xml
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\AppleAcres.csproj.GenerateResource.Cache
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\TextPage.g.i.cs
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\TextPage.g.cs
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\TextPage.xaml
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\TextPage.xbf
+B:\prog\AJ\AppleAcres\AppleAcres\bin\Debug\TextPage.xbf
+B:\prog\AJ\AppleAcres\AppleAcres\obj\Debug\AppleAcres.csprojResolveAssemblyReference.cache

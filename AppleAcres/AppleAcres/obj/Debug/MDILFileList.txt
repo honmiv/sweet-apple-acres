@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <file>\AppleAcres.exe</file>
+  <file>\Facebook.dll</file>
+</Files>

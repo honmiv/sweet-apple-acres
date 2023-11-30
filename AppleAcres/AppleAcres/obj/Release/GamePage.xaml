@@ -1,0 +1,54 @@
+﻿<Page
+    x:Class="AppleAcres.GamePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AppleAcres"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="bck">
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/loading.png"/>
+        </Grid.Background>
+        
+        <Image x:Name="tree" HorizontalAlignment="Center" VerticalAlignment="Bottom" Source="Assets/tree.png" Stretch="UniformToFill" Opacity="0"/>
+        <Image x:Name="aj" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="200" Margin="0" Stretch="Fill" Height="200" Opacity="0"/>           
+              
+        <Border x:Name="barrelBackContainer" Margin="0,0,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" Height="0" Width="0" Opacity="0">
+            <Image x:Name="barrelback" VerticalAlignment="Top" HorizontalAlignment="Center" Source="Assets/barrelback.png" Stretch="Fill" Width="0" Height="0"/>
+        </Border>
+        <Border x:Name="ciderContainer" Margin="0" VerticalAlignment="Top" HorizontalAlignment="Center" Height="0" Width="0" RenderTransformOrigin="0.5,0.5" Opacity="0">
+            <Image x:Name="cider" RenderTransformOrigin="0.5,1" HorizontalAlignment="Center" VerticalAlignment="Top" Width="100" Height="100" Stretch="Fill" Source="Assets/cider.png" Margin="0" Opacity="0.9"/>
+        </Border>
+        <Border x:Name="barrelContainer" Margin="0,0,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" Height="0" Width="0" Opacity="0">
+            <Image x:Name="barrel" VerticalAlignment="Top" HorizontalAlignment="Center" Source="Assets/barrel.png" Stretch="Fill" Width="0" Height="0"/>
+        </Border>
+        
+        <Image x:Name="apple1" HorizontalAlignment="Right" Height="100" Margin="0" VerticalAlignment="Top" Width="100" Source="Assets/apple.png" Opacity="0"/>
+        <Image x:Name="apple2" HorizontalAlignment="Right" Height="100" Margin="0" VerticalAlignment="Top" Width="100" Source="Assets/apple.png" Opacity="0"/>
+        <Image x:Name="apple3" HorizontalAlignment="Right" Height="100" Margin="0" VerticalAlignment="Top" Width="100" Source="Assets/apple.png" Opacity="0"/>
+        <Image x:Name="apple4" HorizontalAlignment="Right" Height="100" Margin="0" VerticalAlignment="Top" Width="100" Source="Assets/apple.png" Opacity="0"/>
+        <Image x:Name="apple5" HorizontalAlignment="Right" Height="100" Margin="0" VerticalAlignment="Top" Width="100" Source="Assets/apple.png" Opacity="0"/>
+        <Image x:Name="basket" HorizontalAlignment="Right" Height="100" VerticalAlignment="Bottom" Width="100" Source="Assets/basket.png" Margin="0" Opacity="0"/>
+        
+        <TextBlock x:Name="curscore" HorizontalAlignment="Center" FontFamily="/Assets/Equestria.ttf#Equestria" TextWrapping="Wrap" VerticalAlignment="Top" TextAlignment="Center" FontSize="48" Foreground="#FFEF4036" Opacity="0"/>
+        <Rectangle x:ConnectionId='1' x:Name="leftbtn" Fill="#FFF4F4F5" HorizontalAlignment="Right" Margin="0,2,200,0" Stroke="Black" VerticalAlignment="Top" Width="200" Opacity="0" Height="638"                                         Canvas.ZIndex="1"/>
+        <Rectangle x:ConnectionId='2' x:Name="rightbtn" Fill="#FFF4F4F5" HorizontalAlignment="Right" Height="640" Stroke="Black" VerticalAlignment="Top" Width="200" Opacity="0"                                          Canvas.ZIndex="1"/>
+
+        <Image x:Name="loadingimage" Source="Assets/loading.png" Visibility="Collapsed"/>
+        <Image x:Name="applefailed" Source="Assets/failedapple.png" Visibility="Collapsed"/>
+        
+        <Grid x:Name="bckimage" Visibility="Collapsed">
+            <Grid.Background>
+                <ImageBrush ImageSource="/Assets/bck.png"/>
+            </Grid.Background>
+        </Grid>
+        
+        <Image x:Name="goodapple" Source="Assets/apple.png" Visibility="Collapsed"/>
+        <MediaElement x:Name="kick" Source="Assets/hitthetree.wav" AutoPlay="False" AudioCategory="GameEffects" Visibility="Collapsed" Volume="0.2"/>
+        <MediaElement x:Name="applebreak" xmlns:myNS="using:AppleAcres"  x:FieldModifier="public" Source="Assets/applebreak.wav" AutoPlay="False" AudioCategory="GameEffects" Visibility="Collapsed" Volume="0.8"/>
+    </Grid>
+</Page>
+
